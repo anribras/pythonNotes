@@ -1,2 +1,2 @@
 # pythonNotes
-Python notes
+Notes for python language by jupter-notebooks. 
